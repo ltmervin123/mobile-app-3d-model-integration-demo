@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "mobile-app-3d-model-integration-demo",
+    "name": "mobile-app-3d-model-integration-main",
     "slug": "mobile-app-3d-model-integration-demo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "mobileapp3dmodelintegrationdemo",
@@ -19,7 +19,9 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.alvinqsteam.mobileapp3dmodelintegrationmain",
+      "versionCode": 2
     },
     "web": {
       "output": "static",
